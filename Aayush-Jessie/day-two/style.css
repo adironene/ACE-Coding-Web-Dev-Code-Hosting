@@ -1,0 +1,16 @@
+div {
+  background-color: aliceblue;
+}
+/*this changes all divs*/
+.para1 {
+  color: #C07363;
+  font-size: 200%;
+} /* the period signifies a class. You usually use classes when you want to change multiple elements*/
+#para2 {
+  color:brown;
+  font-size: 50%;
+}
+#para3 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(85, 173, 214);
+} /* # signifies an id selector. You usually use these when you want to alter one element.*/
