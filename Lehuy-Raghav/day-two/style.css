@@ -1,0 +1,15 @@
+html{
+  background: rgb(57,55,102);
+  color: white;
+}
+
+.header {
+   text-align: center;
+   padding: 50px;
+   background: url("https://wallpaperplay.com/walls/full/4/e/4/392736.jpg");
+   background-repeat: no-repeat;
+  
+}
+.img-contain {
+   text-align: center;
+}
