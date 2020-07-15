@@ -1,0 +1,19 @@
+* {
+  background-color: aquamarine;
+}
+
+p {
+  color: #999999;
+  font-size: 20px;
+  text-align: center;
+}
+
+div {
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  margin-left: 1em;
+  padding: 400px 0;
+  height: 1000px;
+  width: 500px;
+}
