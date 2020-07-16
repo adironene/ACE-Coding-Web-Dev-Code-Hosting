@@ -1,0 +1,54 @@
+/*
+Three types of CSS styling:
+
+name: p or h1 (any predetermined HTML tag)
+class: .nameOfClass
+id: #theID
+
+*/
+
+*{
+  background-color:azure
+}
+
+body{
+  padding: 0%;
+  margin: 0%;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: strong;
+  text-align: center;
+  padding: 5%;
+  margin: 0%;
+  color: white;
+  background-color: navy;
+}
+
+#sticky {
+  background-color: #24336b;
+  text-align: center;
+  color: white;
+  font-size: 200%;
+  margin: 0%;
+  position:sticky;
+  top: 0%;
+}
+
+ol{
+  margin-left:30%;
+  margin-right:30%;
+  font-size:16pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #24336b;
+}
+
+.c{
+  margin-left:35%;
+  margin-right:35%;
+  font-size:16pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #24336b;
+  text-align: center;
+}
