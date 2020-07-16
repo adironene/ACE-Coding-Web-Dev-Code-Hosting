@@ -1,0 +1,49 @@
+img {
+  margin: 10px 2vw;
+  width: 45%;
+  float: left;
+}
+
+h1{
+  font-family: 'Impact';
+  font-size: 56px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p {
+  font-size: 18;
+  text-align: center;
+  margin: 0 20px;
+}
+
+#fact {
+  color: blue;
+}
+
+body {
+  background-color: aquamarine;
+  font-family: Monospace;
+}
+
+#copyright {
+  text-align: center;
+}
+
+#video {
+  padding: auto;
+}
+
+#video iframe{
+  display: block;
+  margin: auto;
+}
+
+hr {
+  height: 2px;
+  background-color: blue;
+  border: none;
+}
